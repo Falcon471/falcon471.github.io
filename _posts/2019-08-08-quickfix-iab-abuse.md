@@ -5,7 +5,5 @@ author: Falcon471
 date: 2024-12-01 11:33:00 +0800
 categories: [Adversary Emulation]
 tags: [Adversary Emulation]
-image:
-  path: /assets/img/icons/qf_icon.png
 ---
 
